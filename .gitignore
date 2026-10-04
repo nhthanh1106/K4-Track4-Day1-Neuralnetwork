@@ -7,3 +7,9 @@ data/processed/
 *.pt
 *.pth
 *.ckpt
+# Superseded root-level artifacts; the final version lives in submission_<MSSV>/.
+/K4_Track4_Day1_Neuralnetwork_Complete.ipynb
+/day1_nn_lab/
+/day1_nn_lab.zip
+/.template-preview.png
+/.workbook_preview/
